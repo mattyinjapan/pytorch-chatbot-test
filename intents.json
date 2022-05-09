@@ -11,10 +11,8 @@
         "Good day"
       ],
       "responses": [
-        "Hey :-)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "こんにちは",
+        "初めまして"
       ]
     },
     {
@@ -32,15 +30,15 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "login",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "How do I login?",
+        "I can't login",
+        "I'm having troubles logging in"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "パスワード再発行行っていますでしょうか",
+        "ログインすると何かエラーが表示されていますでしょうか"
       ]
     },
     {
